@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssarkarjpg03
-- 👀 I’m interested in ... Cyber security & ethical hacking
+- 👀 I’m interested in ... Cyber security & ethical hacking & web development.
 - 🌱 I’m currently learning ... BCA
 
 <!---
